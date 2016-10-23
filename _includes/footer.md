@@ -1,7 +1,7 @@
 
 <p>
 RaConf'16 SaüSiber tarafından düzenlenen bir organizasyondur.
-[Telegram](https://telegram.me/sausiber)
+[Telegram] (https://telegram.me/sausiber)
 <html>
   <body>
     <div id="fb-root"></div>
