@@ -13,8 +13,9 @@ fa-icon: puzzle-piece text-cream
     <img src="../img/empty_human.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
     <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">platin sponsor<br>              </figcaption>
   </figure>
- <center>
-#### **Altın Sponsorlar**
+ <center><br>
+
+<h3>Altın Sponsorlar</h3>
 
 #### **Gümüş Sponsorlar**
 
