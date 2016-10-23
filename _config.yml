@@ -26,8 +26,8 @@ google_analytics_key: UA-86185304-1 ## put YOUR key here to enable tracking! (bl
 ### template colors, used site-wide via css ###
 colors:
   black:       '#111111'
-  lightgray:   '#d3d3d3'
-  darkgray:    '#a9a9a9'
+  lightgray:   '#bbbbbb'
+  darkgray:    '#aaaaaa'
   darkestgray: '#4d4d4d'
   white:       '#f8f8f8'
   blue:        '#49a7e9'
@@ -37,6 +37,7 @@ colors:
   turquoise:   '#0fbfcf'
   cooldark:    '#202020'
   coolgreen:   '#649900'
+  coolcyan:    '#00cccc'
 
 kramdown:
   auto_ids:  false
