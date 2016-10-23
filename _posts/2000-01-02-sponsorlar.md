@@ -7,7 +7,7 @@ fa-icon: puzzle-piece text-darkestgray
 ---
 ### **Platin Sponsor**
 <center>
-  <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; text-align:center; position:relative">
+  <figure style="margin:0; margin-bottom:1em; padding:0; text-align:center">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
     <figcaption style="background: rgba(0,0,0,0.7);">Platin Sponsor Placeholder</figcaption>
   </figure>
