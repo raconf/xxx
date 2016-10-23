@@ -1,5 +1,5 @@
 
-
+<p>
 RaConf'16 SaüSiber tarafından düzenlenen bir organizasyondur.
 <html>
   <body>
@@ -26,7 +26,7 @@ RaConf'16 SaüSiber tarafından düzenlenen bir organizasyondur.
     javascript:void(location.href='https://telegram.me/sausiber/url?url='+encodeURIComponent(location.href))
    </body>
 </html>
-
+<p>
 
   
  
