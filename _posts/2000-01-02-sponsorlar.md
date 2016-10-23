@@ -7,14 +7,12 @@ fa-icon: puzzle-piece text-darkestgray
 ---
 #### **Platin Sponsor**
 <center>
-  <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; text-align:center; position:relative; background:#000">
+  <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; text-align:center; position:relative">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
     <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Platin Sponsor Placeholder</figcaption>
   </figure>
 </center>
-
 -------------------------
-
 #### **Altın Sponsorlar**
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
@@ -30,5 +28,4 @@ fa-icon: puzzle-piece text-darkestgray
     <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Altın Sponsor Placeholder</figcaption>
   </figure>
 </center>
-
 -------------------------
