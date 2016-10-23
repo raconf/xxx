@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "RaConf '16"
-keywords:    "Raconf '16"
+keywords:    "Raconf, 2016, siber, güvenlik, konferans, sakarya, saüsiber"
 description: "Siber Güvenlik Konferansı"
 source_link: "https://twitter.com/raconff"
 favicon:     "img/pp.jpg"
