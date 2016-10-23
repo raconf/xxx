@@ -38,6 +38,11 @@ colors:
   cooldark:    '#202020'
   coolgreen:   '#649900'
   coolcyan:    '#00cccc'
+  brown1:      '#2c2416'
+  brown2:      '#453823'
+  brown3:      '#382e1c'
+  brown4:      '#baa378'
+  brown5:      '#c0a172'
 
 kramdown:
   auto_ids:  false
