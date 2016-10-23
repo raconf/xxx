@@ -1,7 +1,7 @@
 ---
 title: "Sponsorlar"
 bg: brown2
-color: brown5
+color: black
 style: center
 fa-icon: puzzle-piece text-darkestgray
 ---
@@ -9,7 +9,7 @@ fa-icon: puzzle-piece text-darkestgray
 <center>
   <figure style="margin:0; margin-bottom:1em; padding:0; text-align:center; display:table;">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="background: rgba(0,0,0,0.5); display:table-caption; caption-side:bottom;">Platin Sponsor Placeholder</figcaption>
+    <figcaption style="background: rgba(229,228,226,0.8); display:table-caption; caption-side:bottom;">Platin Sponsor Placeholder</figcaption>
   </figure>
 </center>
 
@@ -19,15 +19,15 @@ fa-icon: puzzle-piece text-darkestgray
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,215,0,0.5);">Altın Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,215,0,0.8);">Altın Sponsor Placeholder</figcaption>
   </figure>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,215,0,0.5);">Altın Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,215,0,0.8);">Altın Sponsor Placeholder</figcaption>
   </figure>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,215,0,0.5);">Altın Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,215,0,0.8);">Altın Sponsor Placeholder</figcaption>
   </figure>
 </center>
 
@@ -37,29 +37,29 @@ fa-icon: puzzle-piece text-darkestgray
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Gümüş Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(192,192,192,0.8);">Gümüş Sponsor Placeholder</figcaption>
   </figure>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Gümüş Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(192,192,192,0.8);">Gümüş Sponsor Placeholder</figcaption>
   </figure>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Gümüş Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(192,192,192,0.8);">Gümüş Sponsor Placeholder</figcaption>
   </figure>
 </center>
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Gümüş Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(192,192,192,0.8);">Gümüş Sponsor Placeholder</figcaption>
   </figure>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Gümüş Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(192,192,192,0.8);">Gümüş Sponsor Placeholder</figcaption>
   </figure>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
-    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(255,255,255,0.5);">Gümüş Sponsor Placeholder</figcaption>
+    <figcaption style="position:absolute; left:0; bottom:0; width:100%; background: rgba(192,192,192,0.8);">Gümüş Sponsor Placeholder</figcaption>
   </figure>
 </center>
 
