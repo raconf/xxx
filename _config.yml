@@ -43,6 +43,7 @@ colors:
   brown3:      '#382e1c'
   brown4:      '#baa378'
   brown5:      '#c0a172'
+  cream:       '#fff4d8'
 
 kramdown:
   auto_ids:  false
