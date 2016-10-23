@@ -1,5 +1,5 @@
 
-
+<p>
 RaConf'16 SaüSiber tarafından düzenlenen bir organizasyondur.
 <html>
   <body>
@@ -17,6 +17,5 @@ RaConf'16 SaüSiber tarafından düzenlenen bir organizasyondur.
 <div class="fb-follow" data-href="https://www.facebook.com/sausiber" data-layout="button" data-size="small" data-show-faces="true"></div>
 <a href="https://twitter.com/SauSiber" class="twitter-follow-button" data-show-count="false">Follow @SauSiber</a>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-[Telegram](https://telegram.me/sausiber)
-  
- 
+<a href="https://telegram.me/sausiber">Telegram</a>
+<p>
