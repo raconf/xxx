@@ -21,11 +21,6 @@ RaConf'16 SaüSiber tarafından düzenlenen bir organizasyondur.
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 [Telegram](https://telegram.me/sausiber)
 
-<html>
-  <body>
-    javascript:void(location.href='https://telegram.me/sausiber/url?url='+encodeURIComponent(location.href))
-   </body>
-</html>
 <p>
 
   
