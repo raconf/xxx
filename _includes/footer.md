@@ -1,21 +1,12 @@
 
 <p>
 RaConf'16 SaüSiber tarafından düzenlenen bir organizasyondur.
-<html>
-  <body>
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/tr_TR/sdk.js#xfbml=1&version=v2.8";
-    fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-    </script>
-  </body>
-</html> 
-<div class="fb-follow" data-href="https://www.facebook.com/sausiber" data-layout="button" data-size="small" data-show-faces="true"></div>
-<a href="https://twitter.com/SauSiber" class="twitter-follow-button" data-show-count="false">Follow @SauSiber</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://telegram.me/sausiber">Telegram</a>
-<p>
+</p>
+<iframe 
+src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fsausiber&width=450&height=80&layout=standard&size=large&show_faces=true&appId" 
+width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<a class="twitter-follow-button"
+  href="https://twitter.com/sausiber"
+  data-size="large">
+Follow @SauSiber</a>
+<a href="https://telegram.me/share/url?url=https://telegram.me/sausiber"><img src="http://telegram.wiki/_media/tips:sharewebsite:share.png"/></a>
