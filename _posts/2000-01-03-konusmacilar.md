@@ -2,7 +2,7 @@
 title: "Konuşmacılar"
 bg: brown3
 color: black
-fa-icon: toggle-on
+fa-icon: users
 ---
 <div style="text-align:center">
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
