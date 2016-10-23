@@ -6,7 +6,7 @@ style: center
 fa-icon: puzzle-piece text-cream
 ---
 
-#### **Platin Sponsor**
+<h3>Platin Sponsor<h3><br>
 <center>
 <div style="text-align:center">
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
