@@ -6,7 +6,7 @@ style: center
 fa-icon: puzzle-piece text-darkestgray
 ---
 
-<h3>Platin Sponsor<h3>
+<h3>Platin Sponsor</h3>
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
@@ -14,7 +14,7 @@ fa-icon: puzzle-piece text-darkestgray
   </figure>
 </center>
 
-<h3>Altın Sponsorlar<h3>
+<h3>Altın Sponsorlar</h3>
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
@@ -30,7 +30,7 @@ fa-icon: puzzle-piece text-darkestgray
   </figure>
 </center>
 
-<h3>Gümüş Sponsorlar<h3>
+<h3>Gümüş Sponsorlar</h3>
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
@@ -58,7 +58,7 @@ fa-icon: puzzle-piece text-darkestgray
   </figure>
 </center>
 
-<h3>Destek Sponsorları<h3>
+<h3>Destek Sponsorları</h3>
 <center>
   <figure style="margin:0; margin-left:1em; margin-bottom:1em; padding:0; float:left; text-align:center; position:relative; background:#000">
     <img src="../img/sponsor_placeholder.jpg" alt="" style="display:block; max-width:100%; margin:auto; padding:auto;"/>
