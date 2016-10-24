@@ -1,6 +1,6 @@
 ---
 title: "Sponsorlar"
-bg: brown2
+bg: darkestgray
 color: black
 style: center
 fa-icon: puzzle-piece text-darkestgray
